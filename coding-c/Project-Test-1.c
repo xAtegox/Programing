@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Run code with f5
+
 int main(){
 
     // Print Message
@@ -23,6 +25,18 @@ int main(){
     printf("your gpa is %f\n", gpa);
     printf("The price is $%.2f\n", price);
     // %.2f means 2 decimals .3 would mean 3....
+
+    // Double can store more decimals (bout5 16 digits)
+    double pi = 3.14159265358979;
+    printf("The value of pi is %.15lf\n", pi);
+
+    // char, character
+    char grade = 'A';
+    char symbol = '$';
+
+    printf("Your grade is %c\n", grade);
+    printf("Your Symbol is %c\n", symbol);
+
 
 
 
