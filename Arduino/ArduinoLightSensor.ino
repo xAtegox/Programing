@@ -1,6 +1,4 @@
-void setup() {
-  // Put nothing here
-}
+{{REWRITTEN_CODE}}
 
 void loop() {
   // Put nothing here

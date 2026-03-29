@@ -1,0 +1,31 @@
+1. codellama
+A large language model that can use text prompts to generate and discuss code.
+Code Llama supports many of the most popular programming languages used today, including Python, C++, Java, PHP, Typescript (Javascript), C#, Bash and more.
+
+2. deepseek-r1
+DeepSeek-R1 is a family of open reasoning models with performance approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+The model has demonstrated outstanding performance across various benchmark evaluations, including mathematics, programming, and general logic. Its overall performance is now approaching that of leading models, such as O3 and Gemini 2.5 Pro.
+
+3. gemma3
+The current, most capable model that runs on a single GPU.
+they excel in tasks like question answering, summarization, and reasoning, while their compact design allows deployment on resource-limited devices.
+
+4. llama3.1
+rivals the top AI models when it comes to state-of-the-art capabilities in general knowledge, steerability, math, tool use, and multilingual translation.
+
+5. mathstral
+MathΣtral: a 7B model designed for math reasoning and scientific discovery by Mistral AI.
+
+6. wizard-math
+Model focused on math and logic problems
+
+7. mistral-nemo
+A state-of-the-art 12B model with 128k context length, built by Mistral AI in collaboration with NVIDIA.
+Its reasoning, world knowledge, and coding accuracy are state-of-the-art in its size category
+
+8. qwen2.5-coder
+The latest series of Code-Specific Qwen models, with significant improvements in code generation, code reasoning, and code fixing.
+
+9. tinylama
+The TinyLlama project is an open endeavor to train a compact 1.1B Llama model on 3 trillion tokens.
+TinyLlama is a compact model with only 1.1B parameters. This compactness allows it to cater to a multitude of applications demanding a restricted computation and memory footprint.
